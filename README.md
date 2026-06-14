@@ -95,7 +95,6 @@ Agentic AI represents a significant shift from passive, single-response AI model
 
 ## 11. References / Further Reading
 
-- Anthropic — Building Effective AI Agents
 - n8n Documentation — Workflow Automation
 - Model Context Protocol (MCP) specification
 - OpenAI API Documentation — Function/Tool Calling
