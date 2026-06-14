@@ -2,7 +2,7 @@
 
 *A Report on Objectives, Decision-Making, Algorithms, Industry Applications, and Ethical Considerations*
 
-**Prepared by:** Poorva Jawale | AI Engineer Roadmap – Agentic AI Module
+**Prepared by:** Shubham Shivane | AI Engineer Roadmap – Agentic AI Module
 
 ---
 
